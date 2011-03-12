@@ -1,0 +1,68 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2AE51620-0103-45D7-A708-0B156FC946F1/f:Form1.cs" caret="679" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2AE51620-0103-45D7-A708-0B156FC946F1/f:Form1.cs" caret="463" fromTop="18" />
+      <File id="2AE51620-0103-45D7-A708-0B156FC946F1/f:Form1.cs" caret="565" fromTop="23" />
+      <File id="2AE51620-0103-45D7-A708-0B156FC946F1/f:Form1.cs" caret="990" fromTop="23" />
+      <File id="2AE51620-0103-45D7-A708-0B156FC946F1/f:Form1.cs" caret="856" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="for" priority="0" />
+      <Item value="ListaDeHorarios" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="Lista" priority="7" />
+      <Item value="true" priority="1" />
+      <Item value="var" priority="0" />
+      <Item value="ultimoItemDaLista" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView">
+      <Item value="Items" priority="6" />
+      <Item value="Select`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView+ListViewItemCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="Count" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToShortTimeString`0" priority="0" />
+      <Item value="ToLongTimeString`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewItem">
+      <Item value="Focused" priority="0" />
+      <Item value="Selected" priority="2" />
+      <Item value="EnsureVisible`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

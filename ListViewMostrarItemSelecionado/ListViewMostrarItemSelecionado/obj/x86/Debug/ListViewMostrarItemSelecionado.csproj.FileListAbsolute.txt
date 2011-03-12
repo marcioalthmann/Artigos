@@ -1,0 +1,9 @@
+E:\Artigos\ListViewMostrarItemSelecionado\ListViewMostrarItemSelecionado\bin\Debug\ListViewMostrarItemSelecionado.exe
+E:\Artigos\ListViewMostrarItemSelecionado\ListViewMostrarItemSelecionado\bin\Debug\ListViewMostrarItemSelecionado.pdb
+E:\Artigos\ListViewMostrarItemSelecionado\ListViewMostrarItemSelecionado\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Artigos\ListViewMostrarItemSelecionado\ListViewMostrarItemSelecionado\obj\x86\Debug\ListViewMostrarItemSelecionado.Form1.resources
+E:\Artigos\ListViewMostrarItemSelecionado\ListViewMostrarItemSelecionado\obj\x86\Debug\ListViewMostrarItemSelecionado.Properties.Resources.resources
+E:\Artigos\ListViewMostrarItemSelecionado\ListViewMostrarItemSelecionado\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Artigos\ListViewMostrarItemSelecionado\ListViewMostrarItemSelecionado\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Artigos\ListViewMostrarItemSelecionado\ListViewMostrarItemSelecionado\obj\x86\Debug\ListViewMostrarItemSelecionado.exe
+E:\Artigos\ListViewMostrarItemSelecionado\ListViewMostrarItemSelecionado\obj\x86\Debug\ListViewMostrarItemSelecionado.pdb
