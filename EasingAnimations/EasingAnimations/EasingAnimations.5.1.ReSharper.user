@@ -1,0 +1,125 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="24" />
+      <Item value="BackErase" priority="0" />
+      <Item value="BackEase`0" priority="4" />
+      <Item value="BackEase" priority="0" />
+      <Item value="backEase" priority="1" />
+      <Item value="EaseIn" priority="0" />
+      <Item value="FuncaoDaAnimacao" priority="3" />
+      <Item value="var" priority="1" />
+      <Item value="ModoDaAnimacao" priority="2" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="13" />
+      <Item value="return" priority="11" />
+      <Item value="EasingMode`0" priority="4" />
+      <Item value="break" priority="15" />
+      <Item value="default" priority="0" />
+      <Item value="easeMode" priority="3" />
+      <Item value="EaseOut" priority="0" />
+      <Item value="EasingMode" priority="0" />
+      <Item value="public" priority="3" />
+      <Item value="class" priority="1" />
+      <Item value="prop" priority="1" />
+      <Item value="string" priority="1" />
+      <Item value="ModoDeAnimacao`0" priority="1" />
+      <Item value="List&lt;ModoDeAnimacao&gt;" priority="0" />
+      <Item value="ModoDeAnimacao" priority="0" />
+      <Item value="Nome" priority="1" />
+      <Item value="Loaded" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="IEasingFunction`0" priority="0" />
+      <Item value="EasingFunctionBase`0" priority="2" />
+      <Item value="null" priority="1" />
+      <Item value="BounceEase`0" priority="0" />
+      <Item value="CircleEase`0" priority="0" />
+      <Item value="a" priority="0" />
+      <Item value="funcaoDaAnimacao" priority="14" />
+      <Item value="CubicEase`0" priority="0" />
+      <Item value="ElasticEase`0" priority="0" />
+      <Item value="Funcao" priority="0" />
+      <Item value="ExponentialEase`0" priority="0" />
+      <Item value="PowerEase`0" priority="0" />
+      <Item value="PolyQuadraticBezierSegment`0" priority="0" />
+      <Item value="QuadraticEase`0" priority="0" />
+      <Item value="QuarticEase`0" priority="0" />
+      <Item value="QuinticEase`0" priority="0" />
+      <Item value="SineEase`0" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="FuncaoDeAnimacao`0" priority="1" />
+      <Item value="List&lt;FuncaoDeAnimacao&gt;" priority="0" />
+      <Item value="FuncaoDeAnimacao" priority="0" />
+      <Item value="ObterFuncaoDaAnimacao`0" priority="0" />
+      <Item value="ObterModoDaAnimacao`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Animation.BackEase">
+      <Item value="EasingMode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="SelectedValue" priority="0" />
+      <Item value="ItemsSource" priority="1" />
+      <Item value="SelectedIndex" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Animation.EasingMode">
+      <Item value="EaseIn" priority="1" />
+      <Item value="EaseOut" priority="0" />
+      <Item value="EaseInOut" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EasingAnimations.ModoDeAnimacao">
+      <Item value="ObterModosDeAnimacao`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EasingAnimations.FuncaoDeAnimacao">
+      <Item value="ObterFuncoesDeAnimacao`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Animation.EasingFunctionBase">
+      <Item value="EasingMode" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml" caret="1744" fromTop="20" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="4029" fromTop="69" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml" caret="1756" fromTop="9" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="5998" fromTop="22" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml" caret="692" fromTop="10" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml" caret="1731" fromTop="31" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml" caret="1731" fromTop="31" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="1161" fromTop="4" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="3338" fromTop="26" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="3354" fromTop="32" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="1786" fromTop="20" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="2243" fromTop="31" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="4727" fromTop="35" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="4793" fromTop="35" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml" caret="1744" fromTop="20" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="845" fromTop="24" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="1062" fromTop="19" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="3250" fromTop="27" />
+      <File id="0F52FAEC-CE9C-42BE-BD4C-719167D6303E/f:MainPage.xaml.cs" caret="4356" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

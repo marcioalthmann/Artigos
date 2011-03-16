@@ -1,0 +1,30 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+	x:Class="EasingAnimations.MainPage"
+	Width="400" Height="300">
+	<UserControl.Resources>
+		<Storyboard x:Name="Animacao">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="ellipse">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1" Value="197" x:Name="Funcao"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+	</UserControl.Resources>
+
+	<Canvas x:Name="LayoutRoot" Background="#FFF3F3F3" d:LayoutOverrides="HorizontalAlignment">
+		<Ellipse x:Name="ellipse" Height="47" Width="47" Fill="#FF45454E" RenderTransformOrigin="0.5,0.5" Canvas.Left="56" Canvas.Top="10">
+			<Ellipse.RenderTransform>
+				<CompositeTransform/>
+			</Ellipse.RenderTransform>
+		</Ellipse>
+		<Button Content="Iniciar Animação" Width="143" Click="Button_Click" Canvas.Left="204" Canvas.Top="174"/>
+		<TextBlock TextWrapping="Wrap" Text="Easing Mode" Canvas.Left="204" Canvas.Top="81"/>
+		<ComboBox x:Name="ModoDaAnimacao" Width="143" Canvas.Left="204" Canvas.Top="97" ItemsSource="{Binding}" SelectedValuePath="Nome" DisplayMemberPath="Nome">
+		</ComboBox>
+		<TextBlock TextWrapping="Wrap" Text="Easing Function" Canvas.Left="204" Canvas.Top="119"/>
+		<ComboBox x:Name="FuncaoDaAnimacao" Width="143" Canvas.Left="204" Canvas.Top="135" ItemsSource="{Binding}" SelectedValuePath="Nome" DisplayMemberPath="Nome">
+		</ComboBox>
+	</Canvas>
+</UserControl>
