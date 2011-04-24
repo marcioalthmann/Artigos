@@ -1,5 +1,0 @@
-E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc\bin\DeWebFormsParaMvc.dll
-E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc\bin\DeWebFormsParaMvc.pdb
-E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc\obj\Debug\ResolveAssemblyReference.cache
-E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc\obj\Debug\DeWebFormsParaMvc.dll
-E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc\obj\Debug\DeWebFormsParaMvc.pdb
