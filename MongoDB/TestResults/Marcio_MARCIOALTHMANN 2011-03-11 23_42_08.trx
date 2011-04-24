@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="282973ae-832a-4261-804d-d649c7ebeabc" name="Marcio@MARCIOALTHMANN 2011-03-11 23:42:08" runUser="marcioalthmann\Marcio" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="0450a1c5-f391-4bac-8c85-7aac811d4f94">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Marcio_MARCIOALTHMANN 2011-03-11 23_42_08">
+      <DeploymentItem filename="E:\Artigos\MongoDB\MongoDB\bin\MongoDB.dll" />
+      <DeploymentItem filename="E:\Artigos\MongoDB\MongoDB.Testes\bin\Debug\Norm.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-03-11T23:42:08.0376774-03:00" queuing="2011-03-11T23:42:10.6938293-03:00" start="2011-03-11T23:42:10.9658449-03:00" finish="2011-03-11T23:42:54.9173587-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="MARCIOALTHMANN" outcome="Error" timestamp="2011-03-11T23:42:54.9113584-03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="IncluiUmNovoAlbum" storage="e:\artigos\mongodb\mongodb.testes\bin\debug\mongodb.testes.dll" id="ade74b08-adbd-fa00-0613-eaf31e6ce913">
+      <Execution id="964b0bee-b48d-41f6-9627-2831a1e3fe71" />
+      <TestMethod codeBase="E:/Artigos/MongoDB/MongoDB.Testes/bin/Debug/MongoDB.Testes.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MongoDB.Testes.EstiloMusicalTestes, MongoDB.Testes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IncluiUmNovoAlbum" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ade74b08-adbd-fa00-0613-eaf31e6ce913" executionId="964b0bee-b48d-41f6-9627-2831a1e3fe71" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="964b0bee-b48d-41f6-9627-2831a1e3fe71" testId="ade74b08-adbd-fa00-0613-eaf31e6ce913" testName="IncluiUmNovoAlbum" computerName="MARCIOALTHMANN" duration="00:00:43.7044997" startTime="2011-03-11T23:42:11.2088588-03:00" endTime="2011-03-11T23:42:54.9133585-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="964b0bee-b48d-41f6-9627-2831a1e3fe71">
+    </UnitTestResult>
+  </Results>
+</TestRun>

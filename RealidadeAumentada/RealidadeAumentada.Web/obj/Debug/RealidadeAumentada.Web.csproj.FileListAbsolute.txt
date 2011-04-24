@@ -1,0 +1,5 @@
+E:\Artigos\RealidadeAumentada\RealidadeAumentada.Web\bin\RealidadeAumentada.Web.dll
+E:\Artigos\RealidadeAumentada\RealidadeAumentada.Web\bin\RealidadeAumentada.Web.pdb
+E:\Artigos\RealidadeAumentada\RealidadeAumentada.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\Artigos\RealidadeAumentada\RealidadeAumentada.Web\obj\Debug\RealidadeAumentada.Web.dll
+E:\Artigos\RealidadeAumentada\RealidadeAumentada.Web\obj\Debug\RealidadeAumentada.Web.pdb

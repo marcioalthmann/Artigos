@@ -1,0 +1,7 @@
+E:\Artigos\MongoDB\MongoDB\bin\MongoDB.dll
+E:\Artigos\MongoDB\MongoDB\bin\MongoDB.pdb
+E:\Artigos\MongoDB\MongoDB\bin\Norm.pdb
+E:\Artigos\MongoDB\MongoDB\bin\Norm.xml
+E:\Artigos\MongoDB\MongoDB\obj\Debug\ResolveAssemblyReference.cache
+E:\Artigos\MongoDB\MongoDB\obj\Debug\MongoDB.dll
+E:\Artigos\MongoDB\MongoDB\obj\Debug\MongoDB.pdb

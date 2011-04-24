@@ -1,0 +1,7 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="RealidadeAumentada" EntryPointType="RealidadeAumentada.App" RuntimeVersion="4.0.50826.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="RealidadeAumentada" Source="RealidadeAumentada.dll" />
+    <AssemblyPart x:Name="Matrix3DEx" Source="Matrix3DEx.dll" />
+    <AssemblyPart x:Name="SLARToolKit" Source="SLARToolKit.dll" />
+  </Deployment.Parts>
+</Deployment>

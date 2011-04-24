@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="39683E38-1B6A-4656-BC01-883CE434CF30" ModuleId="MongoDB" />
+  <Module PersistentId="822BC610-B6AA-46BC-9582-51A1D1950114" ModuleId="MongoDB.Testes" />
+</Modules>

@@ -1,0 +1,9 @@
+E:\Artigos\MongoDB\MongoDB.Testes\bin\Debug\MongoDB.Testes.dll
+E:\Artigos\MongoDB\MongoDB.Testes\bin\Debug\MongoDB.Testes.pdb
+E:\Artigos\MongoDB\MongoDB.Testes\bin\Debug\MongoDB.dll
+E:\Artigos\MongoDB\MongoDB.Testes\bin\Debug\MongoDB.pdb
+E:\Artigos\MongoDB\MongoDB.Testes\bin\Debug\Norm.pdb
+E:\Artigos\MongoDB\MongoDB.Testes\bin\Debug\Norm.xml
+E:\Artigos\MongoDB\MongoDB.Testes\obj\Debug\ResolveAssemblyReference.cache
+E:\Artigos\MongoDB\MongoDB.Testes\obj\Debug\MongoDB.Testes.dll
+E:\Artigos\MongoDB\MongoDB.Testes\obj\Debug\MongoDB.Testes.pdb

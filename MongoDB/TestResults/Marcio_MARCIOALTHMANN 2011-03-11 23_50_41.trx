@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f9a3c495-cfb9-4add-8a10-1aeac59b0bec" name="Marcio@MARCIOALTHMANN 2011-03-11 23:50:41" runUser="marcioalthmann\Marcio" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="0450a1c5-f391-4bac-8c85-7aac811d4f94">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Marcio_MARCIOALTHMANN 2011-03-11 23_50_41">
+      <DeploymentItem filename="E:\Artigos\MongoDB\MongoDB\bin\MongoDB.dll" />
+      <DeploymentItem filename="E:\Artigos\MongoDB\MongoDB.Testes\bin\Debug\Norm.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-03-11T23:50:41.6830562-03:00" queuing="2011-03-11T23:50:43.7311734-03:00" start="2011-03-11T23:50:43.9931884-03:00" finish="2011-03-11T23:51:20.4182717-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="MARCIOALTHMANN" outcome="Error" timestamp="2011-03-11T23:51:20.4162716-03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ObterOAlbumPowerslave" storage="e:\artigos\mongodb\mongodb.testes\bin\debug\mongodb.testes.dll" id="14535242-baae-00de-d9ed-a9a476607f68">
+      <Execution id="6953e073-8020-47b0-9004-eca282a35070" />
+      <TestMethod codeBase="E:/Artigos/MongoDB/MongoDB.Testes/bin/Debug/MongoDB.Testes.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MongoDB.Testes.EstiloMusicalTestes, MongoDB.Testes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ObterOAlbumPowerslave" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="14535242-baae-00de-d9ed-a9a476607f68" executionId="6953e073-8020-47b0-9004-eca282a35070" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6953e073-8020-47b0-9004-eca282a35070" testId="14535242-baae-00de-d9ed-a9a476607f68" testName="ObterOAlbumPowerslave" computerName="MARCIOALTHMANN" duration="00:00:36.2160714" startTime="2011-03-11T23:50:44.2022003-03:00" endTime="2011-03-11T23:51:20.4182717-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6953e073-8020-47b0-9004-eca282a35070">
+    </UnitTestResult>
+  </Results>
+</TestRun>

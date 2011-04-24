@@ -1,0 +1,100 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="17C49559-6ADB-4B78-99C1-F7306FF40E37/f:MainPage.xaml" caret="816" fromTop="8" />
+      <File id="17C49559-6ADB-4B78-99C1-F7306FF40E37/f:MainPage.xaml.cs" caret="5631" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="17C49559-6ADB-4B78-99C1-F7306FF40E37/f:MainPage.xaml" caret="816" fromTop="8" />
+      <File id="17C49559-6ADB-4B78-99C1-F7306FF40E37/f:MainPage.xaml.cs" caret="557" fromTop="18" />
+      <File id="17C49559-6ADB-4B78-99C1-F7306FF40E37/f:MainPage.xaml.cs" caret="775" fromTop="28" />
+      <File id="17C49559-6ADB-4B78-99C1-F7306FF40E37/f:MainPage.xaml.cs" caret="359" fromTop="11" />
+      <File id="17C49559-6ADB-4B78-99C1-F7306FF40E37/f:MainPage.xaml.cs" caret="5636" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="0" />
+      <Item value="markerDetector" priority="3" />
+      <Item value="new" priority="1" />
+      <Item value="CaptureSourceMarkerDetector" priority="0" />
+      <Item value="var" priority="6" />
+      <Item value="Marker`0" priority="0" />
+      <Item value="captureSource" priority="0" />
+      <Item value="marker" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="Dispatcher" priority="0" />
+      <Item value="args" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="results" priority="1" />
+      <Item value="MatrixTransform`0" priority="0" />
+      <Item value="Imagem" priority="2" />
+      <Item value="Matrix3DFactory`0" priority="2" />
+      <Item value="centerAtOrigin" priority="0" />
+      <Item value="scale" priority="0" />
+      <Item value="Viewport" priority="1" />
+      <Item value="world" priority="0" />
+      <Item value="Matrix3D`0" priority="0" />
+      <Item value="vp" priority="0" />
+      <Item value="Matrix3DProjection`0" priority="0" />
+      <Item value="ProjectionMatrix" priority="0" />
+      <Item value="m" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SLARToolKit.Marker">
+      <Item value="LoadFromResource`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SLARToolKit.CaptureSourceMarkerDetector">
+      <Item value="Initialize`0" priority="0" />
+      <Item value="MarkersDetected" priority="0" />
+      <Item value="Projection" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="BeginInvoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SLARToolKit.MarkerDetectionEventArgs">
+      <Item value="DetectionResults" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SLARToolKit.DetectionResults">
+      <Item value="HasResults" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Media3D.Matrix3DFactory">
+      <Item value="CreateTranslation`0" priority="0" />
+      <Item value="CreateScale`0" priority="0" />
+      <Item value="CreateViewportTransformation`0" priority="0" />
+      <Item value="CreateViewportProjection`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Image">
+      <Item value="ActualWidth" priority="0" />
+      <Item value="ActualHeight" priority="0" />
+      <Item value="Projection" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SLARToolKit.DetectionResult">
+      <Item value="Transformation" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Shapes.Rectangle">
+      <Item value="ActualWidth" priority="0" />
+      <Item value="ActualHeight" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Media3D.Matrix3D">
+      <Item value="Identity" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

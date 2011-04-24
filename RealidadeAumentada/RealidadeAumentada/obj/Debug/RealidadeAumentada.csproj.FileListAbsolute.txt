@@ -1,0 +1,14 @@
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\Bin\Debug\RealidadeAumentada.dll
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\Bin\Debug\RealidadeAumentada.pdb
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\Bin\Debug\AppManifest.xaml
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\Bin\Debug\RealidadeAumentada.xap
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\Bin\Debug\RealidadeAumentadaTestPage.html
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\Bin\Debug\Matrix3DEx.dll
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\Bin\Debug\SLARToolKit.dll
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\obj\Debug\ResolveAssemblyReference.cache
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\obj\Debug\App.g.i.cs
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\obj\Debug\MainPage.g.i.cs
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\obj\Debug\RealidadeAumentada.g.resources
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\obj\Debug\RealidadeAumentada.dll
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\obj\Debug\RealidadeAumentada.pdb
+E:\Artigos\RealidadeAumentada\RealidadeAumentada\obj\Debug\XapCacheFile.xml

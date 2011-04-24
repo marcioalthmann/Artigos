@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealidadeAumentada", "RealidadeAumentada\RealidadeAumentada.csproj", "{17C49559-6ADB-4B78-99C1-F7306FF40E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealidadeAumentada.Web", "RealidadeAumentada.Web\RealidadeAumentada.Web.csproj", "{7A8C3B79-22F4-4D79-82CB-3B7DA6DD3E38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C49559-6ADB-4B78-99C1-F7306FF40E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C49559-6ADB-4B78-99C1-F7306FF40E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C49559-6ADB-4B78-99C1-F7306FF40E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C49559-6ADB-4B78-99C1-F7306FF40E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8C3B79-22F4-4D79-82CB-3B7DA6DD3E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8C3B79-22F4-4D79-82CB-3B7DA6DD3E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8C3B79-22F4-4D79-82CB-3B7DA6DD3E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8C3B79-22F4-4D79-82CB-3B7DA6DD3E38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

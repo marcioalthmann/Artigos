@@ -1,0 +1,37 @@
+﻿@model IEnumerable<MongoDB.Models.EstiloMusical>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Estilos Musicais</h2>
+
+<p>
+    @Html.ActionLink("Incluir", "Incluir")
+</p>
+<table>
+    <tr>
+        <th></th>
+        <th>
+            Nome
+        </th>
+        <th>
+            Descrição
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Editar", "Editar", new { id = item.Id}) |
+            @Html.ActionLink("Excluir", "Excluir", new { id = item.Id})
+        </td>
+        <td>
+            @item.Nome
+        </td>
+        <td>@item.Descricao</td>
+    </tr>
+}
+
+</table>
+

@@ -1,0 +1,33 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7DCBF488-1306-4A9F-92A6-56FC26DA996A/f:Default.aspx" caret="792" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7DCBF488-1306-4A9F-92A6-56FC26DA996A/f:Default.aspx" caret="792" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="password" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
