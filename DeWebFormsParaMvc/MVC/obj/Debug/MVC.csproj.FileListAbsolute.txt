@@ -1,0 +1,9 @@
+E:\Artigos\DeWebFormsParaMvc\MVC\bin\MVC.dll
+E:\Artigos\DeWebFormsParaMvc\MVC\bin\MVC.pdb
+E:\Artigos\DeWebFormsParaMvc\MVC\bin\DeWebFormsParaMvc.Dominio.dll
+E:\Artigos\DeWebFormsParaMvc\MVC\bin\EntityFramework.dll
+E:\Artigos\DeWebFormsParaMvc\MVC\bin\DeWebFormsParaMvc.Dominio.pdb
+E:\Artigos\DeWebFormsParaMvc\MVC\bin\EntityFramework.xml
+E:\Artigos\DeWebFormsParaMvc\MVC\obj\Debug\ResolveAssemblyReference.cache
+E:\Artigos\DeWebFormsParaMvc\MVC\obj\Debug\MVC.dll
+E:\Artigos\DeWebFormsParaMvc\MVC\obj\Debug\MVC.pdb

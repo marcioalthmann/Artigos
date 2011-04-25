@@ -1,0 +1,5 @@
+E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\bin\Debug\DeWebFormsParaMvc.Dominio.dll
+E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\bin\Debug\DeWebFormsParaMvc.Dominio.pdb
+E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\obj\Debug\ResolveAssemblyReference.cache
+E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\obj\Debug\DeWebFormsParaMvc.Dominio.dll
+E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\obj\Debug\DeWebFormsParaMvc.Dominio.pdb

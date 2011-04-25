@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeWebFormsParaMvc", "DeWebFormsParaMvc\DeWebFormsParaMvc.csproj", "{7DCBF488-1306-4A9F-92A6-56FC26DA996A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{B119131A-8139-4FBC-9495-9540262F176B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForms", "WebForms\WebForms.csproj", "{C1373963-7850-4826-AB09-1FC03E3C6AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeWebFormsParaMvc.Dominio", "DeWebFormsParaMvc.Dominio\DeWebFormsParaMvc.Dominio.csproj", "{25BF4DE0-1C44-4EDA-AC90-E3E49B1F1EA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7DCBF488-1306-4A9F-92A6-56FC26DA996A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7DCBF488-1306-4A9F-92A6-56FC26DA996A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7DCBF488-1306-4A9F-92A6-56FC26DA996A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7DCBF488-1306-4A9F-92A6-56FC26DA996A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B119131A-8139-4FBC-9495-9540262F176B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B119131A-8139-4FBC-9495-9540262F176B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B119131A-8139-4FBC-9495-9540262F176B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B119131A-8139-4FBC-9495-9540262F176B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1373963-7850-4826-AB09-1FC03E3C6AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1373963-7850-4826-AB09-1FC03E3C6AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1373963-7850-4826-AB09-1FC03E3C6AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1373963-7850-4826-AB09-1FC03E3C6AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25BF4DE0-1C44-4EDA-AC90-E3E49B1F1EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25BF4DE0-1C44-4EDA-AC90-E3E49B1F1EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25BF4DE0-1C44-4EDA-AC90-E3E49B1F1EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25BF4DE0-1C44-4EDA-AC90-E3E49B1F1EA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

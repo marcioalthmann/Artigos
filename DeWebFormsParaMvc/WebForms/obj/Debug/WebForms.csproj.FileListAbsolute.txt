@@ -1,0 +1,7 @@
+E:\Artigos\DeWebFormsParaMvc\WebForms\bin\WebForms.dll
+E:\Artigos\DeWebFormsParaMvc\WebForms\bin\WebForms.pdb
+E:\Artigos\DeWebFormsParaMvc\WebForms\obj\Debug\ResolveAssemblyReference.cache
+E:\Artigos\DeWebFormsParaMvc\WebForms\obj\Debug\WebForms.dll
+E:\Artigos\DeWebFormsParaMvc\WebForms\obj\Debug\WebForms.pdb
+E:\Artigos\DeWebFormsParaMvc\WebForms\bin\DeWebFormsParaMvc.Dominio.dll
+E:\Artigos\DeWebFormsParaMvc\WebForms\bin\DeWebFormsParaMvc.Dominio.pdb

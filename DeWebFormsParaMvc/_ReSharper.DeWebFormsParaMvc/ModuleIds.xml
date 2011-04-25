@@ -1,3 +1,6 @@
 <Modules>
   <Module PersistentId="7DCBF488-1306-4A9F-92A6-56FC26DA996A" ModuleId="DeWebFormsParaMvc" />
+  <Module PersistentId="B119131A-8139-4FBC-9495-9540262F176B" ModuleId="MVC" />
+  <Module PersistentId="C1373963-7850-4826-AB09-1FC03E3C6AF6" ModuleId="WebForms" />
+  <Module PersistentId="25BF4DE0-1C44-4EDA-AC90-E3E49B1F1EA6" ModuleId="DeWebFormsParaMvc.Dominio" />
 </Modules>
