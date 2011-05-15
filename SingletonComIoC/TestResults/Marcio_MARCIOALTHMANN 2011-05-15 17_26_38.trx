@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b102dd08-4bb4-40ff-8951-501da962cc03" name="Marcio@MARCIOALTHMANN 2011-05-15 17:26:38" runUser="marcioalthmann\Marcio" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="375b5ae3-10ff-4e6e-9cf9-e7685d5e9765">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Marcio_MARCIOALTHMANN 2011-05-15 17_26_38">
+      <DeploymentItem filename="E:\Artigos\SingletonComIoC\packages\Castle.Windsor.2.5.3\lib\NET40\Castle.Windsor.dll" />
+      <DeploymentItem filename="E:\Artigos\SingletonComIoC\packages\Castle.Core.2.5.2\lib\NET35\Castle.Core.dll" />
+      <DeploymentItem filename="E:\Artigos\SingletonComIoC\packages\Ninject.2.2.1.4\lib\net40-Full\Ninject.dll" />
+      <DeploymentItem filename="E:\Artigos\SingletonComIoC\packages\Unity.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.dll" />
+      <DeploymentItem filename="E:\Artigos\SingletonComIoC\packages\CommonServiceLocator.1.0\lib\NET35\Microsoft.Practices.ServiceLocation.dll" />
+      <DeploymentItem filename="E:\Artigos\SingletonComIoC\packages\Unity.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.Configuration.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-05-15T17:26:38.5242358-03:00" queuing="2011-05-15T17:26:42.7724788-03:00" start="2011-05-15T17:26:43.0274934-03:00" finish="2011-05-15T17:27:14.5752978-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="MARCIOALTHMANN" outcome="Error" timestamp="2011-05-15T17:27:14.5742978-03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="e:\artigos\singletoncomioc\singletoncomioc\bin\debug\singletoncomioc.dll" id="1801a0e7-e57c-7b6c-efd3-d64d08569bcc">
+      <Execution id="7ffb427c-fcfe-4838-b783-6e81e8ce0431" />
+      <TestMethod codeBase="E:/Artigos/SingletonComIoC/SingletonComIoC/bin/Debug/SingletonComIoC.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingletonComIoC.TestesComWindsor, SingletonComIoC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1801a0e7-e57c-7b6c-efd3-d64d08569bcc" executionId="7ffb427c-fcfe-4838-b783-6e81e8ce0431" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7ffb427c-fcfe-4838-b783-6e81e8ce0431" testId="1801a0e7-e57c-7b6c-efd3-d64d08569bcc" testName="TestMethod1" computerName="MARCIOALTHMANN" duration="00:00:31.3337922" startTime="2011-05-15T17:26:43.2415056-03:00" endTime="2011-05-15T17:27:14.5752978-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7ffb427c-fcfe-4838-b783-6e81e8ce0431">
+    </UnitTestResult>
+  </Results>
+</TestRun>

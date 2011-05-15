@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ba7a0c44-0a4c-4c44-85c9-506ac04b821e" name="Marcio@MARCIOALTHMANN 2011-05-13 22:06:33" runUser="marcioalthmann\Marcio" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="375b5ae3-10ff-4e6e-9cf9-e7685d5e9765">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Marcio_MARCIOALTHMANN 2011-05-13 22_06_33">
+      <DeploymentItem filename="E:\Artigos\SingletonComIoC\packages\Ninject.2.2.1.4\lib\net40-Full\Ninject.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-05-13T22:06:33.8124870-03:00" queuing="2011-05-13T22:06:39.8088300-03:00" start="2011-05-13T22:06:40.0778453-03:00" finish="2011-05-13T22:06:41.4819257-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="MARCIOALTHMANN" outcome="Error" timestamp="2011-05-13T22:06:41.4809256-03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="e:\artigos\singletoncomioc\singletoncomioc\bin\debug\singletoncomioc.dll" id="835ee133-3ab4-dd27-112f-a4b5d7291131">
+      <Execution id="de2c4a66-fc93-4486-8ca0-a0efe24af70b" />
+      <TestMethod codeBase="E:/Artigos/SingletonComIoC/SingletonComIoC/bin/Debug/SingletonComIoC.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingletonComIoC.UnitTest1, SingletonComIoC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="835ee133-3ab4-dd27-112f-a4b5d7291131" executionId="de2c4a66-fc93-4486-8ca0-a0efe24af70b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="de2c4a66-fc93-4486-8ca0-a0efe24af70b" testId="835ee133-3ab4-dd27-112f-a4b5d7291131" testName="TestMethod1" computerName="MARCIOALTHMANN" duration="00:00:01.2370708" startTime="2011-05-13T22:06:40.2448549-03:00" endTime="2011-05-13T22:06:41.4819257-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de2c4a66-fc93-4486-8ca0-a0efe24af70b">
+    </UnitTestResult>
+  </Results>
+</TestRun>
