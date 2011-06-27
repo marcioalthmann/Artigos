@@ -1,0 +1,5 @@
+E:\Artigos\CollatzConjecture\C#\Collatz\Collatz\bin\Debug\Collatz.exe
+E:\Artigos\CollatzConjecture\C#\Collatz\Collatz\bin\Debug\Collatz.pdb
+E:\Artigos\CollatzConjecture\C#\Collatz\Collatz\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Artigos\CollatzConjecture\C#\Collatz\Collatz\obj\x86\Debug\Collatz.exe
+E:\Artigos\CollatzConjecture\C#\Collatz\Collatz\obj\x86\Debug\Collatz.pdb

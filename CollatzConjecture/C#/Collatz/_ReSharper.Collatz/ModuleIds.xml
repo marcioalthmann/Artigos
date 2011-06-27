@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="2E38A4D0-32E6-4C71-B186-CEB4877DDB32" ModuleId="Collatz_1" />
+  <Module PersistentId="6D121FFD-234F-4E87-AC0D-851AB76A5D01" ModuleId="SilverlightCollatz" />
+  <Module PersistentId="35E6B8B4-0A6D-4DE7-BEA1-00CB28A87F06" ModuleId="CollatzSilverlight" />
+</Modules>

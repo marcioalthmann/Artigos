@@ -1,0 +1,5 @@
+E:\Artigos\CollatzConjecture\C#\Collatz\CollatzSilverlight.Web\bin\CollatzSilverlight.Web.dll
+E:\Artigos\CollatzConjecture\C#\Collatz\CollatzSilverlight.Web\bin\CollatzSilverlight.Web.pdb
+E:\Artigos\CollatzConjecture\C#\Collatz\CollatzSilverlight.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\Artigos\CollatzConjecture\C#\Collatz\CollatzSilverlight.Web\obj\Debug\CollatzSilverlight.Web.dll
+E:\Artigos\CollatzConjecture\C#\Collatz\CollatzSilverlight.Web\obj\Debug\CollatzSilverlight.Web.pdb

@@ -8,23 +8,30 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="53" fromTop="1" />
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComWindsor.cs" caret="457" fromTop="19" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:Configuracoes.cs" caret="45" fromTop="3" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComUnity.cs" caret="539" fromTop="16" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComWindsor.cs" caret="303" fromTop="10" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="661" fromTop="21" />
     </RecentFiles>
     <RecentEdits>
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="548" fromTop="11" />
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="567" fromTop="22" />
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="567" fromTop="17" />
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="567" fromTop="10" />
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="569" fromTop="24" />
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="499" fromTop="6" />
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="572" fromTop="24" />
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="270" fromTop="12" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="637" fromTop="11" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="656" fromTop="22" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="656" fromTop="17" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="656" fromTop="10" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="658" fromTop="24" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="588" fromTop="6" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="661" fromTop="24" />
       <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="53" fromTop="1" />
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComWindsor.cs" caret="460" fromTop="18" />
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComWindsor.cs" caret="248" fromTop="10" />
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComWindsor.cs" caret="125" fromTop="4" />
-      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComWindsor.cs" caret="436" fromTop="16" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComWindsor.cs" caret="235" fromTop="4" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComWindsor.cs" caret="852" fromTop="24" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComNinject.cs" caret="545" fromTop="15" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComWindsor.cs" caret="477" fromTop="7" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComWindsor.cs" caret="879" fromTop="16" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComUnity.cs" caret="774" fromTop="21" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:Configuracoes.cs" caret="158" fromTop="12" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:Configuracoes.cs" caret="86" fromTop="15" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:Configuracoes.cs" caret="163" fromTop="8" />
+      <File id="DE81001E-2AB7-4B8D-9A8C-A8EA71C4118B/f:TestesComUnity.cs" caret="539" fromTop="16" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -41,54 +48,87 @@
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
       <Item value="Ninject" priority="0" />
-      <Item value="public" priority="3" />
+      <Item value="public" priority="4" />
       <Item value="interface" priority="0" />
       <Item value="class" priority="2" />
       <Item value="IConfiguracoes`0" priority="1" />
-      <Item value="var" priority="4" />
-      <Item value="new" priority="8" />
-      <Item value="Configuracoes`0" priority="9" />
-      <Item value="Assert`0" priority="1" />
-      <Item value="configuracoes" priority="0" />
-      <Item value="novasConfiguracoes" priority="0" />
+      <Item value="var" priority="8" />
+      <Item value="new" priority="17" />
+      <Item value="Configuracoes`0" priority="20" />
+      <Item value="Assert`0" priority="3" />
+      <Item value="configuracoes" priority="1" />
+      <Item value="novasConfiguracoes" priority="1" />
       <Item value="Bind`0" priority="2" />
       <Item value="Modulo`0" priority="0" />
-      <Item value="StandardKernel`0" priority="0" />
+      <Item value="StandardKernel`0" priority="2" />
       <Item value="kernel" priority="1" />
-      <Item value="private" priority="0" />
+      <Item value="private" priority="2" />
       <Item value="DateTime`0" priority="1" />
       <Item value="ctor" priority="0" />
       <Item value="DataDeCriacao" priority="0" />
       <Item value="c" priority="0" />
-      <Item value="unityContainer" priority="1" />
-      <Item value="UnityContainer" priority="0" />
-      <Item value="typeof" priority="0" />
+      <Item value="unityContainer" priority="6" />
+      <Item value="UnityContainer" priority="1" />
+      <Item value="typeof" priority="1" />
       <Item value="IUnityContainer`0" priority="0" />
-      <Item value="windsorContainer" priority="1" />
+      <Item value="windsorContainer" priority="6" />
       <Item value="WindsorContainer" priority="0" />
+      <Item value="IComponentsInstaller`0" priority="0" />
+      <Item value="LifestyleGroup&lt;Configuracoes&gt;" priority="0" />
+      <Item value="LifestyleType" priority="0" />
+      <Item value="LifestyleType`0" priority="0" />
+      <Item value="conf" priority="1" />
+      <Item value="StandardKernel" priority="1" />
+      <Item value="k" priority="0" />
+      <Item value="KernelBase`0" priority="0" />
+      <Item value="ninjectKernel" priority="0" />
+      <Item value="Type`0" priority="0" />
+      <Item value="LifetimeManager`0" priority="0" />
+      <Item value="static" priority="2" />
+      <Item value="if" priority="0" />
+      <Item value="instancia" priority="2" />
+      <Item value="null" priority="0" />
+      <Item value="Configuracoes" priority="0" />
+      <Item value="return" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
-      <Item value="AreSame`0" priority="2" />
+      <Item value="AreSame`0" priority="4" />
       <Item value="AreEqual`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Ninject.Syntax.IBindingToSyntax`1">
       <Item value="To`0" priority="0" />
-      <Item value="ToSelf`0" priority="0" />
+      <Item value="ToSelf`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Ninject.Syntax.IBindingWhenInNamedWithOrOnSyntax`1">
-      <Item value="InSingletonScope`0" priority="1" />
+      <Item value="InSingletonScope`0" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Ninject.StandardKernel">
       <Item value="Get`0" priority="1" />
+      <Item value="Bind`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.DateTime">
       <Item value="Now" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Microsoft.Practices.Unity.UnityContainer">
-      <Item value="Resolve`0" priority="0" />
+      <Item value="Resolve`0" priority="2" />
+      <Item value="RegisterType`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Castle.Windsor.WindsorContainer">
-      <Item value="Register`0" priority="1" />
+      <Item value="Register`0" priority="2" />
+      <Item value="Resolve`1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Castle.MicroKernel.Registration.Component">
+      <Item value="For`5" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.ComponentRegistration`1">
+      <Item value="LifeStyle" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.Lifestyle.LifestyleGroup`1">
+      <Item value="Singleton" priority="0" />
+      <Item value="Is`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Castle.Core.LifestyleType">
+      <Item value="Singleton" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

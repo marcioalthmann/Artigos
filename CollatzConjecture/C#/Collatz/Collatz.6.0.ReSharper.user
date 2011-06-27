@@ -1,0 +1,91 @@
+<Configuration>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements />
+    </Session>
+  </UnitTestSessions>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="35E6B8B4-0A6D-4DE7-BEA1-00CB28A87F06/f:MainPage.xaml.cs" caret="1347" fromTop="26" />
+      <File id="2E38A4D0-32E6-4C71-B186-CEB4877DDB32/f:Program.cs" caret="482" fromTop="24" />
+      <File id="35E6B8B4-0A6D-4DE7-BEA1-00CB28A87F06/f:MainPage.xaml" caret="669" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2E38A4D0-32E6-4C71-B186-CEB4877DDB32/f:Program.cs" caret="462" fromTop="25" />
+      <File id="2E38A4D0-32E6-4C71-B186-CEB4877DDB32/f:Program.cs" caret="273" fromTop="18" />
+      <File id="2E38A4D0-32E6-4C71-B186-CEB4877DDB32/f:Program.cs" caret="333" fromTop="22" />
+      <File id="35E6B8B4-0A6D-4DE7-BEA1-00CB28A87F06/f:MainPage.xaml" caret="972" fromTop="16" />
+      <File id="35E6B8B4-0A6D-4DE7-BEA1-00CB28A87F06/f:MainPage.xaml.cs" caret="590" fromTop="21" />
+      <File id="35E6B8B4-0A6D-4DE7-BEA1-00CB28A87F06/f:MainPage.xaml.cs" caret="499" fromTop="7" />
+      <File id="35E6B8B4-0A6D-4DE7-BEA1-00CB28A87F06/f:MainPage.xaml.cs" caret="856" fromTop="18" />
+      <File id="35E6B8B4-0A6D-4DE7-BEA1-00CB28A87F06/f:MainPage.xaml.cs" caret="1346" fromTop="26" />
+      <File id="35E6B8B4-0A6D-4DE7-BEA1-00CB28A87F06/f:MainPage.xaml" caret="559" fromTop="8" />
+      <File id="2E38A4D0-32E6-4C71-B186-CEB4877DDB32/f:Program.cs" caret="155" fromTop="12" />
+      <File id="2E38A4D0-32E6-4C71-B186-CEB4877DDB32/f:Program.cs" caret="13" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="void" priority="63" />
+      <Item value="int" priority="191" />
+      <Item value="if" priority="159" />
+      <Item value="numero" priority="638" />
+      <Item value="Console`0" priority="95" />
+      <Item value="return" priority="63" />
+      <Item value="Collatz`0" priority="63" />
+      <Item value="else" priority="63" />
+      <Item value="KeyValuePair" priority="31" />
+      <Item value="Numero" priority="31" />
+      <Item value="out" priority="31" />
+      <Item value="Collatz" priority="31" />
+      <Item value="private" priority="31" />
+      <Item value="while" priority="31" />
+      <Item value="total" priority="159" />
+      <Item value="numeros" priority="191" />
+      <Item value="Chart" priority="63" />
+      <Item value="new" priority="31" />
+      <Item value="Dictionary&lt;int,int&gt;" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="53" />
+      <Item value="Read`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="XamlCodeCompletionContext">
+      <Item value="DependentValueBinding" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="83" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DataVisualization.Charting.Chart">
+      <Item value="Series" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DataVisualization.Charting.LineSeries">
+      <Item value="ItemsSource" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

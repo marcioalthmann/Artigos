@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="CollatzSilverlight.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:toolkit="http://schemas.microsoft.com/winfx/2006/xaml/presentation/toolkit" mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="500">
+
+    <Grid x:Name="LayoutRoot" Background="White" Height="300" Width="500">
+        <toolkit:Chart x:Name="Chart"
+                     Width="500"
+                     Height="260"
+                     Background="White" Margin="0,38,0,2">
+            <toolkit:Chart.Series>
+                <toolkit:LineSeries Title="Collatz"
+                                  IndependentValueBinding="{Binding Path=Key}"
+                                  DependentValueBinding="{Binding Path=Value}">
+
+                </toolkit:LineSeries>
+            </toolkit:Chart.Series>
+        </toolkit:Chart>
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="12,13,0,0" Name="textBlock1" Text="Número" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="62,10,0,0" Name="Numero" VerticalAlignment="Top" Width="60" />
+        <Button Content="Collatz" Height="23" HorizontalAlignment="Left" Margin="128,10,0,0" Name="Collatz" VerticalAlignment="Top" Width="75" Click="Collatz_Click" />
+    </Grid>
+</UserControl>

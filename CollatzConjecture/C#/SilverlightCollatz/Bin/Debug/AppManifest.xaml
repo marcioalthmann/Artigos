@@ -1,0 +1,8 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SilverlightCollatz" EntryPointType="SilverlightCollatz.App" RuntimeVersion="4.0.50826.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="SilverlightCollatz" Source="SilverlightCollatz.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.DataVisualization.Toolkit" Source="System.Windows.Controls.DataVisualization.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Toolkit" Source="System.Windows.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls" Source="System.Windows.Controls.dll" />
+  </Deployment.Parts>
+</Deployment>
