@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\nugetserver" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="07/14/2011 20:55:51" />
+    <file relUrl="bin/Elmah.dll" publishTime="07/14/2011 20:45:25" />
+    <file relUrl="bin/NuGet.Server.dll" publishTime="07/14/2011 20:45:26" />
+    <file relUrl="bin/Ninject.pdb" publishTime="07/14/2011 20:45:25" />
+    <file relUrl="packages.config" publishTime="07/14/2011 20:45:33" />
+    <file relUrl="bin/RouteMagic.dll" publishTime="07/14/2011 20:45:25" />
+    <file relUrl="bin/WebActivator.dll" publishTime="07/14/2011 20:45:24" />
+    <file relUrl="bin/Ninject.xml" publishTime="07/14/2011 20:45:25" />
+    <file relUrl="Packages/Readme.txt" publishTime="07/14/2011 20:45:32" />
+    <file relUrl="license.txt" publishTime="07/14/2011 20:45:31" />
+    <file relUrl="bin/NuGetServer.pdb" publishTime="07/14/2011 20:46:14" />
+    <file relUrl="bin/Ninject.dll" publishTime="07/14/2011 20:45:25" />
+    <file relUrl="favicon.ico" publishTime="07/14/2011 20:45:32" />
+    <file relUrl="bin/NuGetServer.dll" publishTime="07/14/2011 20:46:14" />
+    <file relUrl="Default.aspx" publishTime="07/14/2011 20:45:32" />
+    <file relUrl="DataServices/Packages.svc" publishTime="07/14/2011 20:45:32" />
+    <file relUrl="bin/NuGet.Core.dll" publishTime="07/14/2011 20:45:24" />
+  </publishProfile>
+</publishData>

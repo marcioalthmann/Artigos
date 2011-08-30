@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler", "ProjectEuler.csproj", "{D4F4753C-8FE7-44BA-8108-6DBBBA5C06F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F742C8FD-E32F-4212-8B68-7A6A04EFE876}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		ProjectEuler.vsmdi = ProjectEuler.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ProjectEuler.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F4753C-8FE7-44BA-8108-6DBBBA5C06F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F4753C-8FE7-44BA-8108-6DBBBA5C06F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F4753C-8FE7-44BA-8108-6DBBBA5C06F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F4753C-8FE7-44BA-8108-6DBBBA5C06F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

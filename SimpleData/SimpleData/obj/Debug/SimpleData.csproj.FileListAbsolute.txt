@@ -1,0 +1,10 @@
+E:\Artigos\SimpleData\SimpleData\bin\Debug\SimpleData.dll.config
+E:\Artigos\SimpleData\SimpleData\bin\Debug\SimpleData.dll
+E:\Artigos\SimpleData\SimpleData\bin\Debug\SimpleData.pdb
+E:\Artigos\SimpleData\SimpleData\bin\Debug\MySql.Data.dll
+E:\Artigos\SimpleData\SimpleData\bin\Debug\Simple.Data.Ado.dll
+E:\Artigos\SimpleData\SimpleData\bin\Debug\Simple.Data.dll
+E:\Artigos\SimpleData\SimpleData\bin\Debug\Simple.Data.Mysql.Mysql40.dll
+E:\Artigos\SimpleData\SimpleData\obj\Debug\ResolveAssemblyReference.cache
+E:\Artigos\SimpleData\SimpleData\obj\Debug\SimpleData.dll
+E:\Artigos\SimpleData\SimpleData\obj\Debug\SimpleData.pdb

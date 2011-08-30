@@ -1,0 +1,13 @@
+E:\Artigos\MassTransit\src\RequestResponse.Messages\bin\Debug\RequestResponse.Messages.dll
+E:\Artigos\MassTransit\src\RequestResponse.Messages\bin\Debug\RequestResponse.Messages.pdb
+E:\Artigos\MassTransit\src\RequestResponse.Messages\bin\Debug\MassTransit.dll
+E:\Artigos\MassTransit\src\RequestResponse.Messages\bin\Debug\log4net.dll
+E:\Artigos\MassTransit\src\RequestResponse.Messages\bin\Debug\Magnum.dll
+E:\Artigos\MassTransit\src\RequestResponse.Messages\bin\Debug\MassTransit.pdb
+E:\Artigos\MassTransit\src\RequestResponse.Messages\bin\Debug\MassTransit.xml
+E:\Artigos\MassTransit\src\RequestResponse.Messages\bin\Debug\log4net.xml
+E:\Artigos\MassTransit\src\RequestResponse.Messages\bin\Debug\Magnum.pdb
+E:\Artigos\MassTransit\src\RequestResponse.Messages\bin\Debug\Magnum.xml
+E:\Artigos\MassTransit\src\RequestResponse.Messages\obj\Debug\ResolveAssemblyReference.cache
+E:\Artigos\MassTransit\src\RequestResponse.Messages\obj\Debug\RequestResponse.Messages.dll
+E:\Artigos\MassTransit\src\RequestResponse.Messages\obj\Debug\RequestResponse.Messages.pdb

@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="7F968891-B1A7-4D34-8B7D-7A44E02D4CBC" ModuleId="RequestResponse.Requester" />
+  <Module PersistentId="EAB57B35-C63B-4703-BA9E-72692058FC4F" ModuleId="RequestResponse.Responder" />
+  <Module PersistentId="1EBD1EDD-0EB7-4C2B-837B-D8C08EB07115" ModuleId="RequestResponse.Messages" />
+  <Module PersistentId="MassTransit, Version=2.0.0.4, Culture=neutral, PublicKeyToken=null" ModuleId="MassTransit" />
+</Modules>

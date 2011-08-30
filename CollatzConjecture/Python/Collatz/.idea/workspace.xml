@@ -26,7 +26,7 @@
       <file leaf-file-name="Collatz.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Collatz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="23" selection-end="211" vertical-scroll-proportion="0.05704698">
+            <state line="12" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.34228188">
               <folding />
             </state>
           </provider>
@@ -67,8 +67,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
       <pane id="Scope" />
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -94,10 +94,10 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="recentsLimit" value="5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Python.Collatz">
     <configuration default="false" name="Collatz" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -167,6 +167,7 @@
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
+    <configuration useDefault="true">C:\Users\Marcio\AppData\Roaming\Subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
@@ -243,7 +244,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Collatz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="23" selection-end="211" vertical-scroll-proportion="0.05704698">
+        <state line="12" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.34228188">
           <folding />
         </state>
       </provider>

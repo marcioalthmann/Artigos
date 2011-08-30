@@ -1,0 +1,121 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8CC9AB5D-916B-406A-874C-80D2608DA502/f:RequestImpl.cs" caret="2483" fromTop="11" />
+      <File id="1EBD1EDD-0EB7-4C2B-837B-D8C08EB07115/f:Response.cs" caret="185" fromTop="8" />
+      <File id="1EBD1EDD-0EB7-4C2B-837B-D8C08EB07115/f:Request.cs" caret="229" fromTop="9" />
+      <File id="7F968891-B1A7-4D34-8B7D-7A44E02D4CBC/f:Program.cs" caret="1242" fromTop="22" />
+      <File id="EAB57B35-C63B-4703-BA9E-72692058FC4F/f:Program.cs" caret="1141" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1EBD1EDD-0EB7-4C2B-837B-D8C08EB07115/f:Request.cs" caret="121" fromTop="8" />
+      <File id="1EBD1EDD-0EB7-4C2B-837B-D8C08EB07115/f:Request.cs" caret="234" fromTop="14" />
+      <File id="1EBD1EDD-0EB7-4C2B-837B-D8C08EB07115/f:Request.cs" caret="13" fromTop="0" />
+      <File id="EAB57B35-C63B-4703-BA9E-72692058FC4F/f:Program.cs" caret="1519" fromTop="23" />
+      <File id="EAB57B35-C63B-4703-BA9E-72692058FC4F/f:Program.cs" caret="1388" fromTop="19" />
+      <File id="EAB57B35-C63B-4703-BA9E-72692058FC4F/f:Program.cs" caret="1396" fromTop="23" />
+      <File id="7F968891-B1A7-4D34-8B7D-7A44E02D4CBC/f:Program.cs" caret="679" fromTop="19" />
+      <File id="7F968891-B1A7-4D34-8B7D-7A44E02D4CBC/f:Program.cs" caret="836" fromTop="24" />
+      <File id="EAB57B35-C63B-4703-BA9E-72692058FC4F/f:Program.cs" caret="1276" fromTop="23" />
+      <File id="1EBD1EDD-0EB7-4C2B-837B-D8C08EB07115/f:Response.cs" caret="185" fromTop="8" />
+      <File id="1EBD1EDD-0EB7-4C2B-837B-D8C08EB07115/f:Request.cs" caret="229" fromTop="9" />
+      <File id="7F968891-B1A7-4D34-8B7D-7A44E02D4CBC/f:Program.cs" caret="1143" fromTop="21" />
+      <File id="EAB57B35-C63B-4703-BA9E-72692058FC4F/f:Program.cs" caret="790" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="Guid`0" priority="157" />
+      <Item value="prop" priority="95" />
+      <Item value="string" priority="158" />
+      <Item value="public" priority="30" />
+      <Item value="class" priority="30" />
+      <Item value="CorrelatedBy" priority="31" />
+      <Item value="sbc" priority="255" />
+      <Item value="Bus`0" priority="63" />
+      <Item value="new" priority="95" />
+      <Item value="Message" priority="63" />
+      <Item value="x" priority="31" />
+      <Item value="callBack" priority="95" />
+      <Item value="Console`0" priority="350" />
+      <Item value="message" priority="95" />
+      <Item value="subs" priority="31" />
+      <Item value="Request`0" priority="62" />
+      <Item value="Response" priority="28" />
+      <Item value="msg" priority="128" />
+      <Item value="while" priority="63" />
+      <Item value="mensagem" priority="126" />
+      <Item value="RequestId" priority="32" />
+      <Item value="DateTime`0" priority="31" />
+      <Item value="ctor" priority="63" />
+      <Item value="CorrelationId" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.BusConfigurators.ServiceBusConfigurator">
+      <Item value="UseMsmq`1" priority="49" />
+      <Item value="VerifyMsmqConfiguration`0" priority="53" />
+      <Item value="UseMulticastSubscriptionClient`0" priority="53" />
+      <Item value="ReceiveFrom`0" priority="53" />
+      <Item value="Subscribe`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MassTransit.Bus">
+      <Item value="Instance" priority="53" />
+      <Item value="Initialize`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.IServiceBus">
+      <Item value="PublishRequest`1" priority="26" />
+      <Item value="MessageContext`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.RequestResponse.Configurators.RequestConfigurator`2">
+      <Item value="Handle`1" priority="26" />
+      <Item value="SetTimeout`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="161" />
+      <Item value="Write`0" priority="26" />
+      <Item value="ReadLine`0" priority="135" />
+      <Item value="Read`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RequestResponse.Messages.Response">
+      <Item value="Message" priority="53" />
+      <Item value="RequestId" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.SubscriptionConfigurators.SubscriptionBusServiceConfigurator">
+      <Item value="Handler`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.IConsumeContext`1">
+      <Item value="Respond`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RequestResponse.Messages.Request">
+      <Item value="Message" priority="26" />
+      <Item value="CorrelationId" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="26" />
+      <Item value="Format`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,43 @@
+﻿@model MongoDB.ViewModel.AlbumViewModel
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Album</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Album.Nome)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Album.Nome)
+            @Html.ValidationMessageFor(model => model.Album.Nome)
+        </div>
+
+        <div class="editor-label">
+            <label for="Estilo Musical">Estilo Musical</label>
+        </div>
+        <select id="AlbumViewModel.EstiloMusical" name="AlbumViewModel.EstiloMusical">
+            @foreach (var estiloMusical in Model.EstilosMusicais)
+            {
+                <option value="@estiloMusical.Id">@estiloMusical.Nome</option>
+            }
+        </select>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

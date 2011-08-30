@@ -1,0 +1,9 @@
+E:\Artigos\CollatzConjecture\C#\WindowsAzureProject1\WebRole1\bin\WebRole1.dll
+E:\Artigos\CollatzConjecture\C#\WindowsAzureProject1\WebRole1\bin\WebRole1.pdb
+E:\Artigos\CollatzConjecture\C#\WindowsAzureProject1\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Artigos\CollatzConjecture\C#\WindowsAzureProject1\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\Artigos\CollatzConjecture\C#\WindowsAzureProject1\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\Artigos\CollatzConjecture\C#\WindowsAzureProject1\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\Artigos\CollatzConjecture\C#\WindowsAzureProject1\WebRole1\obj\Debug\ResolveAssemblyReference.cache
+E:\Artigos\CollatzConjecture\C#\WindowsAzureProject1\WebRole1\obj\Debug\WebRole1.dll
+E:\Artigos\CollatzConjecture\C#\WindowsAzureProject1\WebRole1\obj\Debug\WebRole1.pdb

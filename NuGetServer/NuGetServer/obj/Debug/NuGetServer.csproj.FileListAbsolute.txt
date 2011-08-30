@@ -1,0 +1,13 @@
+E:\Artigos\NuGetServer\NuGetServer\bin\NuGetServer.dll
+E:\Artigos\NuGetServer\NuGetServer\bin\NuGetServer.pdb
+E:\Artigos\NuGetServer\NuGetServer\bin\Elmah.dll
+E:\Artigos\NuGetServer\NuGetServer\bin\Ninject.dll
+E:\Artigos\NuGetServer\NuGetServer\bin\NuGet.Core.dll
+E:\Artigos\NuGetServer\NuGetServer\bin\NuGet.Server.dll
+E:\Artigos\NuGetServer\NuGetServer\bin\RouteMagic.dll
+E:\Artigos\NuGetServer\NuGetServer\bin\WebActivator.dll
+E:\Artigos\NuGetServer\NuGetServer\bin\Ninject.pdb
+E:\Artigos\NuGetServer\NuGetServer\bin\Ninject.xml
+E:\Artigos\NuGetServer\NuGetServer\obj\Debug\ResolveAssemblyReference.cache
+E:\Artigos\NuGetServer\NuGetServer\obj\Debug\NuGetServer.dll
+E:\Artigos\NuGetServer\NuGetServer\obj\Debug\NuGetServer.pdb

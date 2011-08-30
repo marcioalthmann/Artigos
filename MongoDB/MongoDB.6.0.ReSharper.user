@@ -1,0 +1,197 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Controllers/f:HomeController.cs" caret="305" fromTop="12" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Controllers/f:Default1Controller.cs" caret="1561" fromTop="8" />
+      <File id="822BC610-B6AA-46BC-9582-51A1D1950114/f:EstiloMusicalTestes.cs" caret="1360" fromTop="6" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Models/f:EstiloMusical.cs" caret="337" fromTop="15" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:EstiloMusical/f:Editar.cshtml" caret="0" fromTop="0" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:EstiloMusical/f:Incluir.cshtml" caret="0" fromTop="0" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:EstiloMusical/f:Excluir.cshtml" caret="0" fromTop="0" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:EstiloMusical/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Models/f:Album.cs" caret="249" fromTop="11" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:Shared/f:_Layout.cshtml" caret="816" fromTop="25" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:Album/f:Index.cshtml" caret="688" fromTop="32" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:ViewModel/f:AlbumViewModel.cs" caret="355" fromTop="15" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Models/f:MongoDB.cs" caret="13" fromTop="0" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Controllers/f:EstiloMusicalController.cs" caret="446" fromTop="12" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:Album/f:Create.cshtml" caret="872" fromTop="27" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Controllers/f:EstiloMusicalController.cs" caret="1950" fromTop="23" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Controllers/f:EstiloMusicalController.cs" caret="2117" fromTop="28" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Controllers/f:EstiloMusicalController.cs" caret="2289" fromTop="34" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Controllers/f:EstiloMusicalController.cs" caret="0" fromTop="0" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:EstiloMusical/f:Incluir.cshtml" caret="973" fromTop="24" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:EstiloMusical/f:Incluir.cshtml" caret="954" fromTop="25" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:EstiloMusical/f:Editar.cshtml" caret="952" fromTop="25" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:EstiloMusical/f:Incluir.cshtml" caret="781" fromTop="24" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:EstiloMusical/f:Index.cshtml" caret="295" fromTop="18" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:EstiloMusical/f:Index.cshtml" caret="622" fromTop="31" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:EstiloMusical/f:Editar.cshtml" caret="701" fromTop="23" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Models/f:EstiloMusical.cs" caret="337" fromTop="17" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Models/f:EstiloMusical.cs" caret="338" fromTop="17" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Models/f:MongoDB.cs" caret="930" fromTop="13" />
+      <File id="822BC610-B6AA-46BC-9582-51A1D1950114/f:EstiloMusicalTestes.cs" caret="1108" fromTop="22" />
+      <File id="822BC610-B6AA-46BC-9582-51A1D1950114/f:EstiloMusicalTestes.cs" caret="300" fromTop="1" />
+      <File id="822BC610-B6AA-46BC-9582-51A1D1950114/f:EstiloMusicalTestes.cs" caret="724" fromTop="17" />
+      <File id="822BC610-B6AA-46BC-9582-51A1D1950114/f:EstiloMusicalTestes.cs" caret="1718" fromTop="35" />
+      <File id="822BC610-B6AA-46BC-9582-51A1D1950114/f:EstiloMusicalTestes.cs" caret="1705" fromTop="14" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:Shared/f:_Layout.cshtml" caret="816" fromTop="25" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:Album/f:Create.cshtml" caret="24" fromTop="0" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:Album/f:Create.cshtml" caret="1106" fromTop="32" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Views/d:Album/f:Create.cshtml" caret="872" fromTop="27" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:ViewModel/f:AlbumViewModel.cs" caret="355" fromTop="15" />
+      <File id="39683E38-1B6A-4656-BC01-883CE434CF30/d:Models/f:MongoDB.cs" caret="729" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="3" />
+      <Item value="Norm" priority="0" />
+      <Item value="string" priority="4" />
+      <Item value="public" priority="4" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="Func" priority="0" />
+      <Item value="T`0" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="where" priority="1" />
+      <Item value="class" priority="2" />
+      <Item value="var" priority="9" />
+      <Item value="Mongo`0" priority="2" />
+      <Item value="return" priority="1" />
+      <Item value="mongo" priority="1" />
+      <Item value="expressao" priority="0" />
+      <Item value="IQueryable" priority="0" />
+      <Item value="stringDeConexao" priority="0" />
+      <Item value="prop" priority="6" />
+      <Item value="MongoIdentifier" priority="1" />
+      <Item value="private" priority="0" />
+      <Item value="MongoDB" priority="2" />
+      <Item value="new" priority="6" />
+      <Item value="Models" priority="3" />
+      <Item value="mongoDb" priority="11" />
+      <Item value="EstiloMusical`0" priority="8" />
+      <Item value="estiloMusical" priority="8" />
+      <Item value="id" priority="1" />
+      <Item value="ObjectId`0" priority="1" />
+      <Item value="e" priority="2" />
+      <Item value="Album`0" priority="2" />
+      <Item value="Nome" priority="1" />
+      <Item value="Descricao" priority="0" />
+      <Item value="MongoDB`0" priority="2" />
+      <Item value="Assert`0" priority="4" />
+      <Item value="TestMethod" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="EstiloMusical" priority="0" />
+      <Item value="album" priority="3" />
+      <Item value="DbReference&lt;EstiloMusical&gt;" priority="0" />
+      <Item value="Ignore" priority="0" />
+      <Item value="a" priority="1" />
+      <Item value="estilo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Norm.Mongo">
+      <Item value="Create`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Norm.IMongo">
+      <Item value="GetCollection`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Norm.Collections.IMongoCollection`1">
+      <Item value="AsQueryable`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Where`1" priority="0" />
+      <Item value="ToList`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="SingleOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.Models.MongoDB">
+      <Item value="ObterTodos`1" priority="56" />
+      <Item value="Incluir`1" priority="2" />
+      <Item value="Salvar`1" priority="0" />
+      <Item value="Obter`1" priority="3" />
+      <Item value="Excluir`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.Models.EstiloMusical">
+      <Item value="Id" priority="4" />
+      <Item value="Nome" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Norm.ObjectId">
+      <Item value="Equals`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsNotNull`0" priority="1" />
+      <Item value="AreEqual`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.Models.Album">
+      <Item value="IdAlbum" priority="0" />
+      <Item value="Nome" priority="82" />
+      <Item value="EstiloMusical" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Norm.BSON.DbTypes.DbReference`1">
+      <Item value="Fetch`0" priority="0" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="private" priority="31" />
+      <Item value="Models" priority="31" />
+      <Item value="MongoDB`0" priority="26" />
+      <Item value="new" priority="128" />
+      <Item value="MongoDB" priority="28" />
+      <Item value="_mongoDb" priority="64" />
+      <Item value="prop" priority="63" />
+      <Item value="IList" priority="30" />
+      <Item value="EstiloMusical`0" priority="62" />
+      <Item value="var" priority="63" />
+      <Item value="EstilosMusicais" priority="63" />
+      <Item value="albumViewModel" priority="64" />
+      <Item value="for" priority="29" />
+      <Item value="Model" priority="31" />
+      <Item value="estiloMusical" priority="59" />
+      <Item value="IQueryable`0" priority="31" />
+      <Item value="AlbumViewModel`0" priority="31" />
+      <Item value="ctor" priority="31" />
+      <Item value="Album" priority="60" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.ViewModel.AlbumViewModel">
+      <Item value="Album" priority="80" />
+      <Item value="EstilosMusicais" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="div" priority="6" />
+      <Item value="class" priority="5" />
+      <Item value="editor-label" priority="5" />
+      <Item value="label" priority="5" />
+      <Item value="for" priority="5" />
+      <Item value="option" priority="5" />
+      <Item value="select" priority="5" />
+      <Item value="id" priority="5" />
+      <Item value="name" priority="11" />
+      <Item value="value" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="for" priority="7" />
+      <Item value="estiloMusical" priority="15" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

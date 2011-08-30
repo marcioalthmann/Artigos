@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using Norm;
 
@@ -16,11 +17,11 @@ namespace MongoDB.Models
             }
         }
 
-        public IQueryable<T> ObterTodos<T>() where T : class
+        public List<T> ObterTodos<T>() where T : class
         {
             using (var mongo = Mongo.Create(StringDeConexao))
             {
-                return mongo.GetCollection<T>().AsQueryable();
+                return mongo.GetCollection<T>().AsQueryable().ToList();
             }
         }
 

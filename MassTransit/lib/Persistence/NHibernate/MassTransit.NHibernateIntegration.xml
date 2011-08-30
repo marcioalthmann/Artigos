@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MassTransit.NHibernateIntegration</name>
+    </assembly>
+    <members>
+        <member name="T:MassTransit.NHibernateIntegration.StateMachineUserType">
+            <summary>
+            An NHibernate user type for persisting state machines current state
+            </summary>
+        </member>
+        <member name="T:MassTransit.NHibernateIntegration.UriUserType">
+            <summary>
+            An NHibernate user type for storing a Uri
+            </summary>
+        </member>
+    </members>
+</doc>
