@@ -1,0 +1,72 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E523AF89-B5A2-4F6B-83F0-BA75314CABD0/f:Program.cs" caret="230" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E523AF89-B5A2-4F6B-83F0-BA75314CABD0/f:Program.cs" caret="2203" fromTop="17" />
+      <File id="E523AF89-B5A2-4F6B-83F0-BA75314CABD0/f:Program.cs" caret="317" fromTop="14" />
+      <File id="E523AF89-B5A2-4F6B-83F0-BA75314CABD0/f:Program.cs" caret="1832" fromTop="27" />
+      <File id="E523AF89-B5A2-4F6B-83F0-BA75314CABD0/f:Program.cs" caret="2066" fromTop="32" />
+      <File id="E523AF89-B5A2-4F6B-83F0-BA75314CABD0/f:Program.cs" caret="203" fromTop="10" />
+      <File id="E523AF89-B5A2-4F6B-83F0-BA75314CABD0/f:Program.cs" caret="1449" fromTop="23" />
+      <File id="E523AF89-B5A2-4F6B-83F0-BA75314CABD0/f:Program.cs" caret="1751" fromTop="32" />
+      <File id="E523AF89-B5A2-4F6B-83F0-BA75314CABD0/f:Program.cs" caret="1759" fromTop="22" />
+      <File id="E523AF89-B5A2-4F6B-83F0-BA75314CABD0/f:Program.cs" caret="1304" fromTop="38" />
+      <File id="E523AF89-B5A2-4F6B-83F0-BA75314CABD0/f:Program.cs" caret="447" fromTop="18" />
+      <File id="E523AF89-B5A2-4F6B-83F0-BA75314CABD0/f:Program.cs" caret="1015" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="30" />
+      <Item value="class" priority="30" />
+      <Item value="prop" priority="63" />
+      <Item value="int" priority="30" />
+      <Item value="string" priority="30" />
+      <Item value="var" priority="127" />
+      <Item value="Console`0" priority="127" />
+      <Item value="new" priority="63" />
+      <Item value="EstiloMusical" priority="57" />
+      <Item value="Nome" priority="64" />
+      <Item value="db" priority="63" />
+      <Item value="estiloMusical" priority="191" />
+      <Item value="foreach" priority="95" />
+      <Item value="static" priority="191" />
+      <Item value="void" priority="159" />
+      <Item value="dynamic" priority="31" />
+      <Item value="_db" priority="95" />
+      <Item value="IncluirEstiloMusicalSemPoco`0" priority="31" />
+      <Item value="IdEstiloMusical" priority="31" />
+      <Item value="AlterarEstiloMusicalComPoco`0" priority="31" />
+      <Item value="AlterarEstiloMusicalSemPoco`0" priority="31" />
+      <Item value="LerTodosEstilosMusicais`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Simple.Data.Database">
+      <Item value="OpenFile`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Read`0" priority="26" />
+      <Item value="WriteLine`0" priority="80" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

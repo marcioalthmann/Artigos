@@ -1,0 +1,9 @@
+E:\Artigos\EstudosSimpleData\EstudosSimpleData\bin\Debug\SimpleData.sdf
+E:\Artigos\EstudosSimpleData\EstudosSimpleData\bin\Debug\EstudosSimpleData.exe
+E:\Artigos\EstudosSimpleData\EstudosSimpleData\bin\Debug\EstudosSimpleData.pdb
+E:\Artigos\EstudosSimpleData\EstudosSimpleData\bin\Debug\Simple.Data.Ado.dll
+E:\Artigos\EstudosSimpleData\EstudosSimpleData\bin\Debug\Simple.Data.dll
+E:\Artigos\EstudosSimpleData\EstudosSimpleData\bin\Debug\Simple.Data.SqlCe40.dll
+E:\Artigos\EstudosSimpleData\EstudosSimpleData\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Artigos\EstudosSimpleData\EstudosSimpleData\obj\x86\Debug\EstudosSimpleData.exe
+E:\Artigos\EstudosSimpleData\EstudosSimpleData\obj\x86\Debug\EstudosSimpleData.pdb
