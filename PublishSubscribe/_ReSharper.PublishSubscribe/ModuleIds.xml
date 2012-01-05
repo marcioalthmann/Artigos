@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="6296D2D3-1F21-4744-AD69-E6F9841CDCDE" ModuleId="PublishSubscribe.Mensagens" />
+  <Module PersistentId="2B9C12FA-EF27-4DA4-B464-A03EC28E9BD1" ModuleId="PublishSubscribe.CompanhiaA" />
+  <Module PersistentId="638020FE-8214-4BAF-9D56-2736F35EC65B" ModuleId="PublishSubscribe.Messages" />
+  <Module PersistentId="015EE711-A1EB-47AD-B091-6D8C60D4BA28" ModuleId="PublishSubscribe.Publisher" />
+  <Module PersistentId="534DB2BA-95E4-49B3-824F-119587A1451D" ModuleId="PublishSubscribe.FirstSubscriber" />
+  <Module PersistentId="69B968A8-8671-4405-AA16-9DABD4DBCE44" ModuleId="PublishSubscribe.SecondSubscriber" />
+</Modules>

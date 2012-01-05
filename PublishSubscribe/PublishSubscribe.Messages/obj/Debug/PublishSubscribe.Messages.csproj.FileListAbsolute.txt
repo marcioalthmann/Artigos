@@ -1,0 +1,13 @@
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\bin\Debug\PublishSubscribe.Messages.dll
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\bin\Debug\PublishSubscribe.Messages.pdb
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\bin\Debug\MassTransit.dll
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\bin\Debug\log4net.dll
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\bin\Debug\Magnum.dll
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\bin\Debug\MassTransit.pdb
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\bin\Debug\MassTransit.xml
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\bin\Debug\log4net.xml
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\bin\Debug\Magnum.pdb
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\bin\Debug\Magnum.xml
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\obj\Debug\ResolveAssemblyReference.cache
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\obj\Debug\PublishSubscribe.Messages.dll
+C:\Desenvolvimento\git\PublishSubscribe\PublishSubscribe.Messages\obj\Debug\PublishSubscribe.Messages.pdb
