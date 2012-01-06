@@ -7,3 +7,12 @@ E:\Artigos\DeWebFormsParaMvc\MVC\bin\EntityFramework.xml
 E:\Artigos\DeWebFormsParaMvc\MVC\obj\Debug\ResolveAssemblyReference.cache
 E:\Artigos\DeWebFormsParaMvc\MVC\obj\Debug\MVC.dll
 E:\Artigos\DeWebFormsParaMvc\MVC\obj\Debug\MVC.pdb
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\MVC\bin\MVC.dll
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\MVC\bin\MVC.pdb
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\MVC\bin\DeWebFormsParaMvc.Dominio.dll
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\MVC\bin\EntityFramework.dll
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\MVC\bin\DeWebFormsParaMvc.Dominio.pdb
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\MVC\bin\EntityFramework.xml
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\MVC\obj\Debug\MVC.dll
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\MVC\obj\Debug\MVC.pdb

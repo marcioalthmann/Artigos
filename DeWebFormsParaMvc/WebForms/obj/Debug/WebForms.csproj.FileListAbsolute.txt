@@ -5,3 +5,10 @@ E:\Artigos\DeWebFormsParaMvc\WebForms\obj\Debug\WebForms.dll
 E:\Artigos\DeWebFormsParaMvc\WebForms\obj\Debug\WebForms.pdb
 E:\Artigos\DeWebFormsParaMvc\WebForms\bin\DeWebFormsParaMvc.Dominio.dll
 E:\Artigos\DeWebFormsParaMvc\WebForms\bin\DeWebFormsParaMvc.Dominio.pdb
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\WebForms\bin\WebForms.dll
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\WebForms\bin\WebForms.pdb
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\WebForms\bin\DeWebFormsParaMvc.Dominio.dll
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\WebForms\bin\DeWebFormsParaMvc.Dominio.pdb
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\WebForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\WebForms\obj\Debug\WebForms.dll
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\WebForms\obj\Debug\WebForms.pdb

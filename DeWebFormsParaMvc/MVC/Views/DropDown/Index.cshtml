@@ -1,0 +1,21 @@
+﻿@using MVC.Models
+@model MVC.Models.Livraria
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Livraria</h2>
+
+<p>
+    <select>
+        @foreach (var autor in Model.Autores)
+        {
+            <option value="@autor.IdAutor">@autor.Nome</option>
+        }
+    </select>
+</p>
+
+<p>
+    @Html.DropDownListFor(m => m.Autores, new SelectList(Model.Autores, "IdAutor", "Nome"))
+</p>

@@ -3,3 +3,8 @@ E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\bin\Debug\DeWebFormsParaM
 E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\obj\Debug\ResolveAssemblyReference.cache
 E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\obj\Debug\DeWebFormsParaMvc.Dominio.dll
 E:\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\obj\Debug\DeWebFormsParaMvc.Dominio.pdb
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\bin\Debug\DeWebFormsParaMvc.Dominio.dll
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\bin\Debug\DeWebFormsParaMvc.Dominio.pdb
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\obj\Debug\ResolveAssemblyReference.cache
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\obj\Debug\DeWebFormsParaMvc.Dominio.dll
+C:\Desenvolvimento\git\Artigos\DeWebFormsParaMvc\DeWebFormsParaMvc.Dominio\obj\Debug\DeWebFormsParaMvc.Dominio.pdb
