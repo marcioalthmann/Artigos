@@ -8,14 +8,46 @@
 <h2>Livraria</h2>
 
 <p>
-    <select>
+    <select id="autor">
+        <option value="0">Selecione...</option>
         @foreach (var autor in Model.Autores)
         {
             <option value="@autor.IdAutor">@autor.Nome</option>
         }
     </select>
 </p>
-
 <p>
-    @Html.DropDownListFor(m => m.Autores, new SelectList(Model.Autores, "IdAutor", "Nome"))
+    <select id="livro">
+        
+    </select>
 </p>
+
+<script type="text/javascript" language="javascript">
+    $(function () {
+        $("#autor").change(function () {
+            if (possuiAutorSelecionado()) {
+                carregarLivrosDoAutor();
+            } else {
+                limparLivrosCarregados();
+            }
+        });
+    });
+    
+    function possuiAutorSelecionado() {
+        return $("#autor").val() != "0";
+    }
+    
+    function carregarLivrosDoAutor() {
+        var url = "dropdown/obterlivrosdoautor/" + $("#autor").val();
+        $.getJSON(url, null, function (data) {
+            limparLivrosCarregados();
+            $.each(data, function (indice, livro) {
+                $("#livro").append("<option value='" + livro.IdLivro +"'>" + livro.Titulo + "</option>");
+            });
+        });
+    }
+
+    function limparLivrosCarregados() {
+        $("#livro").empty();
+    }
+</script>
