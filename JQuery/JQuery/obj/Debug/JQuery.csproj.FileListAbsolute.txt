@@ -1,0 +1,7 @@
+c:\desenvolvimento\git\Artigos\JQuery\JQuery\bin\JQuery.dll
+c:\desenvolvimento\git\Artigos\JQuery\JQuery\bin\JQuery.pdb
+c:\desenvolvimento\git\Artigos\JQuery\JQuery\bin\EntityFramework.dll
+c:\desenvolvimento\git\Artigos\JQuery\JQuery\bin\EntityFramework.xml
+c:\desenvolvimento\git\Artigos\JQuery\JQuery\obj\Debug\ResolveAssemblyReference.cache
+c:\desenvolvimento\git\Artigos\JQuery\JQuery\obj\Debug\JQuery.dll
+c:\desenvolvimento\git\Artigos\JQuery\JQuery\obj\Debug\JQuery.pdb

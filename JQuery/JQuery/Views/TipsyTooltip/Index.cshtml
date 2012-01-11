@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<script type="text/javascript">
+    $(function () {
+        $("#link").tipsy();
+
+        $("#tooltipDireita").tipsy({ gravity: "w" });
+        $("#tooltipEmCima").tipsy({ gravity: "s" });
+
+        $("#formulario [title]").tipsy({ trigger: "focus", gravity: "w" });
+    });
+</script>
+
+<h2>Tipsy Tooltip</h2>
+
+<p>
+    <a href="#" id="link" title="Tooltip do link">Link com tooltip</a>
+</p>
+
+<p>
+    <button id="tooltipEmCima" title="Tooltip aparecendo em cima">Em cima</button>
+    <button id="tooltipDireita" title="Tooltip aparecendo do lado direito">Direita</button>
+</p>
+
+<form id="formulario">
+    <p>
+        <input type="text" title="Informe seu nome"/>
+    </p>
+    <p>
+        <input type="text"  title="Telefone (somente números)" />
+    </p>
+</form>
+
+
