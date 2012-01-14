@@ -1,0 +1,5 @@
+c:\desenvolvimento\git\Artigos\Extensions\Extensions\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\desenvolvimento\git\Artigos\Extensions\Extensions\bin\Debug\Extensions.exe
+c:\desenvolvimento\git\Artigos\Extensions\Extensions\bin\Debug\Extensions.pdb
+c:\desenvolvimento\git\Artigos\Extensions\Extensions\obj\x86\Debug\Extensions.exe
+c:\desenvolvimento\git\Artigos\Extensions\Extensions\obj\x86\Debug\Extensions.pdb
