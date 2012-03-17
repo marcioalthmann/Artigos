@@ -1,0 +1,8 @@
+D:\Desenvolvimento\git\Artigos\Protobuf\ProtobufTests\ProtobufTests\bin\Debug\ProtobufTests.exe
+D:\Desenvolvimento\git\Artigos\Protobuf\ProtobufTests\ProtobufTests\bin\Debug\ProtobufTests.pdb
+D:\Desenvolvimento\git\Artigos\Protobuf\ProtobufTests\ProtobufTests\bin\Debug\protobuf-net.dll
+D:\Desenvolvimento\git\Artigos\Protobuf\ProtobufTests\ProtobufTests\bin\Debug\protobuf-net.pdb
+D:\Desenvolvimento\git\Artigos\Protobuf\ProtobufTests\ProtobufTests\bin\Debug\protobuf-net.xml
+D:\Desenvolvimento\git\Artigos\Protobuf\ProtobufTests\ProtobufTests\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Desenvolvimento\git\Artigos\Protobuf\ProtobufTests\ProtobufTests\obj\x86\Debug\ProtobufTests.exe
+D:\Desenvolvimento\git\Artigos\Protobuf\ProtobufTests\ProtobufTests\obj\x86\Debug\ProtobufTests.pdb
