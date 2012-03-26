@@ -210,6 +210,60 @@ namespace ProtobufTests
 
         [DataMember]
         public int AnoDeLancamento { get; set; }
+
+        [DataMember]
+        public List<Musica> Musicas { get; set; }
+
+        [DataMember]
+        public Banda Banda { get; set; }
+
+        public Album()
+        {
+            Banda = new Banda() {Nome = Environment.TickCount.ToString()};
+            Musicas = new List<Musica>();
+            for (int i = 0; i < 10; i++)
+            {
+                Musicas.Add(new Musica {Duracao = new TimeSpan(0, i, 0), Nome = i.ToString()});
+            }
+        }
     }
 
+    [Serializable]
+    [DataContract]
+    public class Musica
+    {
+        [DataMember]
+        public string Nome { get; set; }
+
+        [DataMember]
+        public TimeSpan Duracao { get; set; }
+    }
+
+    [Serializable]
+    [DataContract]
+    public class Banda
+    {
+        [DataMember]
+        public string Nome { get; set; }
+
+        [DataMember]
+        public List<Integrante> Integrantes { get; set; }
+
+        public Banda()
+        {
+            Integrantes = new List<Integrante>();
+            for (int i = 0; i < 5; i++)
+            {
+                Integrantes.Add(new Integrante {Nome = string.Format("Integrante {0}", i)});
+            }
+        }
+    }
+
+    [Serializable]
+    [DataContract]
+    public class Integrante
+    {
+        [DataMember]
+        public string Nome { get; set; }
+    }
 }
