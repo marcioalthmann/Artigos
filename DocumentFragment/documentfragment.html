@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
+	</head>
+
+	<body>
+
+		<div class="row-fluid">
+
+			<div class="span6">
+				<h3>append</h3>
+
+					<select id="estadosAppend">
+					</select>
+
+					<select id="cidadesAppend">
+					</select>
+
+					<p>Carregar estados</p>
+					<p id="resultadoEstadosAppend"></p>
+					<p>Carregar cidades</p>
+					<p id="resultadoCidadesAppend"></p>
+
+				<h3></h3>
+			</div>
+
+			<div class="span6">
+				<h3>documentFragment</h3>
+
+					<select id="estadosDocumentFragment">
+					</select>
+
+					<select id="cidadesDocumentFragment">
+					</select>
+
+					<p>Carregar estados</p>
+					<p id="resultadoEstadosDocumentFragment"></p>
+					<p>Carregar cidades</p>
+					<p id="resultadoCidadesDocumentFragment"></p>
+
+				<h3></h3>
+			</div>
+
+		<div>
+
+ 	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+ 	<script src="estados-cidades.js"></script>
+	<script>
+
+		var estadosAppend = $("#estadosAppend");
+		var cidadesAppend = $("#cidadesAppend");
+		var estadosDocumentFragment = $("#estadosDocumentFragment");
+		var cidadesDocumentFragment = $("#cidadesDocumentFragment");
+		var resultadoEstadosAppend = $("#resultadoEstadosAppend");
+		var resultadoCidadesAppend = $("#resultadoCidadesAppend");
+		var resultadoEstadosDocumentFragment = $("#resultadoEstadosDocumentFragment");
+		var resultadoCidadesDocumentFragment = $("#resultadoCidadesDocumentFragment");
+
+		function calcularTempo(funcao, resultado){
+			var inicio = new Date().getTime();
+			funcao();
+			var fim = new Date().getTime();
+			resultado.text((fim - inicio) + "ms");
+		}
+
+		function carregarEstadosAppend(){
+			for(var i = 0; i < estados.length; i++){
+				estadosAppend.append("<option value='" + estados[i].id + "'>" + estados[i].nome + "</option>");
+			}
+		}
+
+		function carregarCidadesAppend(){
+			var estadoSelecionado = estadosAppend.val();
+			var cidadesDoEstado = cidades[estadoSelecionado];
+
+			for(var i = 0; i < cidadesDoEstado.length; i++){
+				cidadesAppend.append("<option value='" + cidadesDoEstado[i].id + "'>" + cidadesDoEstado[i].nome + "</option>");	
+			}
+		}
+
+		function carregarEstadosDocumentFragment(){
+
+			var fragmentoEstado = document.createDocumentFragment();
+
+			for(var i = 0; i < estados.length; i++){
+				var novoElemento = document.createElement("option")
+				novoElemento.value = estados[i].id;
+				novoElemento.text = estados[i].nome;
+				fragmentoEstado.appendChild(novoElemento);
+			}
+
+			estadosDocumentFragment.append(fragmentoEstado);
+		}
+
+		function carregarCidadesDocumentFragment(){
+			var estadoSelecionado = estadosDocumentFragment.val();
+			var cidadesDoEstado = cidades[estadoSelecionado];
+
+			var fragmentoCidade = document.createDocumentFragment();
+
+			for(var i = 0; i < cidadesDoEstado.length; i++){
+				var novoElemento = document.createElement("option")
+				novoElemento.value = cidadesDoEstado[i].id;
+				novoElemento.text = cidadesDoEstado[i].nome;
+				fragmentoCidade.appendChild(novoElemento);
+			}
+
+			cidadesDocumentFragment.append(fragmentoCidade);
+		}
+
+		$(function(){
+
+			calcularTempo(carregarEstadosAppend, resultadoEstadosAppend);
+			calcularTempo(carregarEstadosDocumentFragment, resultadoEstadosDocumentFragment);
+
+			estadosAppend.change(function(){
+				cidadesAppend.empty();
+				calcularTempo(carregarCidadesAppend, resultadoCidadesAppend);
+			});
+
+			estadosDocumentFragment.change(function(){
+				cidadesDocumentFragment.empty();
+				calcularTempo(carregarCidadesDocumentFragment, resultadoCidadesDocumentFragment);
+			});
+
+		});	
+
+	</script>
+	</body>
+</html>

@@ -1,0 +1,72 @@
+<html>
+	<head>
+		<title>Reflow</title>
+		<style type="text/css">
+			.coluna {
+  				float: left;
+  				width: 50%;
+			}
+		</style>
+	</head>
+
+	<body>
+
+		<div class="coluna">
+			<p>Muito relow</p>
+			<label>Adicionar <input type="text" id="a" /> elementos</label> <button id="adicionarReflow">Adicionar</button>
+
+			<ul id="itensNormal">
+			</ul>
+
+		</div>
+
+		<div class="coluna">
+			<p>1 reflow</p>
+			<label>Adicionar <input type="text" id="b" /> elementos</label> <button id="adicionarUnicoReflow">Adicionar</button>
+
+			<ul id="itensOtimizado">
+
+			</ul>
+		</div>
+
+		<script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+
+		<script>
+			var itensNormal = $("#itensNormal");
+			var itensOtimizado = $("#itensOtimizado");
+
+			$(function(){
+
+				$("#adicionarReflow").click(function(){
+					var total = $("#a").val();
+
+					var start = new Date().getTime();
+
+					for(var i = 0; i < total; i++){
+						itensNormal.append("<li>Item "+ i +"</li>");
+					}
+
+					alert(new Date().getTime() - start);
+
+				});
+
+				$("#adicionarUnicoReflow").click(function(){
+					var total = $("#b").val();
+
+					var start = new Date().getTime();
+					var fragmentoItens = document.createDocumentFragment();
+
+					for(var i = 0; i < total; i++){
+						var item = document.createElement("li");
+						item.innerHTML = "Item " + i;
+						fragmentoItens.appendChild(item);
+					}
+
+					itensOtimizado.append(fragmentoItens);
+					alert(new Date().getTime() - start);					
+				});
+
+			})
+		</script>
+	</body>
+</html>
